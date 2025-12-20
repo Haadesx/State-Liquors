@@ -20,7 +20,7 @@ export const MOCK_PRODUCTS: Product[] = [
         price: 25.73,
         size: "12 fl oz x 8 ct",
         abv: 4.5,
-        images: ["https://images.unsplash.com/photo-1624520934861-c67421ae7d6c?q=80&w=800&auto=format&fit=crop"], // Lemonade/Vodka vibe
+        images: ["https://images.unsplash.com/photo-1699107026490-28826be799d8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0"], // Lemonade/Vodka vibe
         inStock: true,
         isAlcohol: true,
         variants: [],
@@ -36,7 +36,7 @@ export const MOCK_PRODUCTS: Product[] = [
         price: 25.73,
         size: "12 fl oz x 12 ct",
         abv: 5,
-        images: ["https://images.unsplash.com/photo-1574686419842-998845701d63?q=80&w=800&auto=format&fit=crop"], // Hard Seltzer
+        images: ["https://images.unsplash.com/photo-1699107026490-28826be799d8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0"], // Hard Seltzer
         inStock: true,
         isAlcohol: true,
         variants: [],
@@ -52,7 +52,7 @@ export const MOCK_PRODUCTS: Product[] = [
         price: 18.71,
         size: "12 fl oz x 4 ct",
         abv: 12.5,
-        images: ["https://images.unsplash.com/photo-1568545806669-7c4ad3d9fb38?q=80&w=800&auto=format&fit=crop"], // Margarita
+        images: ["https://images.unsplash.com/photo-1699107026490-28826be799d8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0"], // Margarita
         inStock: true,
         isAlcohol: true,
         variants: [],
@@ -68,7 +68,7 @@ export const MOCK_PRODUCTS: Product[] = [
         price: 22.22,
         size: "12 fl oz x 12 ct",
         abv: 4.5,
-        images: ["https://images.unsplash.com/photo-1629202517878-5749f7e8a937?q=80&w=800&auto=format&fit=crop"], // Colorful drinks
+        images: ["https://images.unsplash.com/photo-1699107026490-28826be799d8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0"], // Colorful drinks
         inStock: true,
         isAlcohol: true,
         variants: [],
@@ -100,7 +100,7 @@ export const MOCK_PRODUCTS: Product[] = [
         price: 13.99,
         size: "12 fl oz x 6 ct",
         abv: 5,
-        images: ["https://images.unsplash.com/photo-1563503521-122e23215272?q=80&w=800&auto=format&fit=crop"], // Cider/Apple
+        images: ["https://images.unsplash.com/photo-1699107026490-28826be799d8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0"], // Cider/Apple
         inStock: true,
         isAlcohol: true,
         variants: [],
@@ -132,7 +132,7 @@ export const MOCK_PRODUCTS: Product[] = [
         price: 25.73,
         size: "355 ml x 8 ct",
         abv: 4.5,
-        images: ["https://images.unsplash.com/photo-1629007469275-3435b8dd577f?q=80&w=800&auto=format&fit=crop"], // Canned seltzer
+        images: ["https://images.unsplash.com/photo-1699107026490-28826be799d8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0"], // Canned seltzer
         inStock: true,
         isAlcohol: true,
         variants: [],
@@ -150,7 +150,7 @@ export const MOCK_PRODUCTS: Product[] = [
         price: 31.58,
         size: "12 fl oz x 30 ct",
         abv: 4.2,
-        images: ["https://images.unsplash.com/photo-1623055964894-3ca97047814b?q=80&w=800&auto=format&fit=crop"], // Generic beer can
+        images: ["https://images.unsplash.com/photo-1699107026490-28826be799d8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0"], // Generic beer can
         inStock: true,
         isAlcohol: true,
         variants: [],
@@ -346,7 +346,7 @@ export const MOCK_PRODUCTS: Product[] = [
         price: 38.60,
         size: "1 L",
         abv: 13.5,
-        images: ["https://images.unsplash.com/photo-1585553616435-2dc0a54e271d?q=80&w=800&auto=format&fit=crop"],
+        images: ["https://images.unsplash.com/photo-1743184579851-5ec9972100b3?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0"],
         inStock: true,
         isAlcohol: true,
         variants: [],

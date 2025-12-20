@@ -83,7 +83,8 @@ export function Header() {
 
                 {/* Logo */}
                 <Link href="/" className="mr-6 flex items-center space-x-2">
-                    <span className="text-xl font-bold tracking-tight">State Liquors</span>
+                    {/* <span className="text-xl font-bold tracking-tight">State Liquors</span> */}
+                    <img src="/logo.jpeg" alt="State Liquors" className="h-12 w-auto object-contain" />
                 </Link>
 
                 {/* Desktop Nav */}
