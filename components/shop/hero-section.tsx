@@ -33,7 +33,7 @@ export function HeroSection() {
           </span>
           <h1 className="text-6xl md:text-8xl font-black tracking-tight text-white drop-shadow-lg">
             Elevate Your <br />
-            <span className="text-primary bg-clip-text text-transparent bg-gradient-to-r from-amber-200 to-amber-500">
+            <span className="text-primary">
               Spirits.
             </span>
           </h1>
@@ -55,7 +55,7 @@ export function HeroSection() {
           className="flex flex-col sm:flex-row justify-center gap-5 pt-4"
         >
           <Link href="/shop">
-            <Button size="lg" className="h-14 px-10 text-lg rounded-full bg-primary text-black hover:bg-amber-400 font-bold shadow-[0_0_20px_rgba(251,191,36,0.3)] hover:shadow-[0_0_35px_rgba(251,191,36,0.5)] transition-all transform hover:-translate-y-1">
+            <Button size="lg" className="h-14 px-10 text-lg rounded-full bg-primary text-white hover:bg-primary/90 font-bold shadow-[0_0_20px_rgba(255,50,47,0.3)] hover:shadow-[0_0_35px_rgba(255,50,47,0.5)] transition-all transform hover:-translate-y-1">
               Shop Collection
             </Button>
           </Link>
