@@ -32,8 +32,11 @@ export function Footer() {
                     <div>
                         <h4 className="font-semibold mb-4">Store</h4>
                         <p className="text-sm text-muted-foreground mb-2">
-                            123 Main Street<br />
-                            New York, NY 10001
+                            78 Washington Ave<br />
+                            Carteret, NJ 07008
+                        </p>
+                        <p className="text-sm text-muted-foreground mb-2">
+                            <a href="tel:7325415515" className="hover:text-primary">(732) 541-5515</a>
                         </p>
                         <p className="text-sm text-muted-foreground">
                             Mon-Sat: 10am - 9pm<br />
