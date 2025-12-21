@@ -47,7 +47,7 @@ export function Header() {
     }, [debouncedSearch, router, searchParams]);
 
     return (
-        <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+        <header className="sticky top-0 z-50 w-full border-b bg-black text-white/95 backdrop-blur supports-[backdrop-filter]:bg-black/60">
             <div className="container flex h-16 items-center justify-between px-4 md:px-6">
                 {/* Mobile Menu */}
                 <Sheet>
@@ -84,7 +84,7 @@ export function Header() {
                 {/* Logo */}
                 <Link href="/" className="mr-6 flex items-center space-x-2">
                     {/* <span className="text-xl font-bold tracking-tight">State Liquors</span> */}
-                    <img src="/logo.jpeg" alt="State Liquors" className="h-12 w-auto object-contain" />
+                    <img src="/logo.png" alt="State Liquors" className="h-12 w-auto object-contain" />
                 </Link>
 
                 {/* Desktop Nav */}
